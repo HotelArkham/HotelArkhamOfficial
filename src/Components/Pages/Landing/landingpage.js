@@ -9,7 +9,7 @@ return(
     <div className='container-fluid'>
         <div className='row'>
             <div className='col'>
-                <Image className='img-fluid w-75 mx-auto d-block' src='assets/wpbanner.png' alt='Hotel Arkham Logo'></Image>
+                <Image className='img-fluid w-75 mx-auto d-block' src='/assets/images/wpbanner.png' alt='Hotel Arkham Logo'></Image>
             </div>
         </div>
         <div className='row'>
