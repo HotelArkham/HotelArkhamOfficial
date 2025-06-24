@@ -1,5 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
+import SubstackRedirectForm from './subscriptionform';
 
 function MailingListModal({show, onClose}){
   return (
@@ -12,7 +13,7 @@ function MailingListModal({show, onClose}){
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
-            <iframe
+            {/* <iframe
               src="https://hotelarkham.substack.com/embed"
               width="100%"
               height="320"
@@ -20,11 +21,12 @@ function MailingListModal({show, onClose}){
               title="Substack Subscribe"
               loading="lazy"
               sandbox="allow-forms allow-scripts allow-same-origin"
-            />
+            /> */}
+            <SubstackRedirectForm/>
         </Modal.Body>
         <Modal.Footer>
           <Button variant="outline-light" onClick={onClose}>
-            <span className='arkhamFont'><i class="bi bi-arrow-return-left"></i> Return to The Lobby</span>
+            <span className='arkhamFont fs-5'><i class="bi bi-arrow-return-left"></i> Return to The Lobby</span>
           </Button>
         </Modal.Footer>
       </Modal>
