@@ -15,6 +15,18 @@
 
 }
 
+@media (min-width: 768px) {
+  .arkhamFont {
+    font-size: 1.5rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .arkhamFont {
+    font-size: 2rem; 
+  }
+}
+
 .background_div{
     background-color: #0f0f0f;
     min-height: 100vh;
