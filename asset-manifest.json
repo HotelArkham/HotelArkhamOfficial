@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/HotelArkhamOfficial/static/css/main.4b780791.css",
-    "main.js": "/HotelArkhamOfficial/static/js/main.d95cd88e.js",
+    "main.css": "/HotelArkhamOfficial/static/css/main.5c7b47f8.css",
+    "main.js": "/HotelArkhamOfficial/static/js/main.df8ad3c3.js",
     "static/js/453.608e0fb3.chunk.js": "/HotelArkhamOfficial/static/js/453.608e0fb3.chunk.js",
     "static/media/bootstrap-icons.woff?": "/HotelArkhamOfficial/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/HotelArkhamOfficial/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "static/media/dyers.ttf": "/HotelArkhamOfficial/static/media/dyers.41515a247fcec1512115.ttf",
     "index.html": "/HotelArkhamOfficial/index.html",
-    "main.4b780791.css.map": "/HotelArkhamOfficial/static/css/main.4b780791.css.map",
-    "main.d95cd88e.js.map": "/HotelArkhamOfficial/static/js/main.d95cd88e.js.map",
+    "main.5c7b47f8.css.map": "/HotelArkhamOfficial/static/css/main.5c7b47f8.css.map",
+    "main.df8ad3c3.js.map": "/HotelArkhamOfficial/static/js/main.df8ad3c3.js.map",
     "453.608e0fb3.chunk.js.map": "/HotelArkhamOfficial/static/js/453.608e0fb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b780791.css",
-    "static/js/main.d95cd88e.js"
+    "static/css/main.5c7b47f8.css",
+    "static/js/main.df8ad3c3.js"
   ]
 }
