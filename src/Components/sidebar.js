@@ -28,7 +28,7 @@ function Sidebar() {
                     </Offcanvas.Header>
                     <Offcanvas.Body>
                         <Nav className="ms-auto">
-                            <NavItem>
+                            {/* <NavItem>
                                 <NavLink className="fs-4">
                                     <span className="arkhamFont"><i class="bi bi-music-note-list"></i> The Amphitheatre</span>
                                 </NavLink>
@@ -37,7 +37,7 @@ function Sidebar() {
                                 <NavLink className="fs-4">
                                     <span className="arkhamFont"><i class="bi bi-book"></i> The Library</span>
                                 </NavLink>
-                            </NavItem>
+                            </NavItem> */}
                             <NavItem onClick={openMailingListModal}>
                                 <NavLink className="fs-4">
                                     <span className="arkhamFont"><i class="bi bi-journal-text"></i> The Guest Book</span>
