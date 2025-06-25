@@ -44,6 +44,14 @@ return(
                 </Button>
             </div>
         </div>
+        <div className='row justify-content-center'>
+            <div className='col'>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>               
+            </div>
+        </div>
         {mailingListModal}
     </div>
 );
